@@ -2,7 +2,7 @@
 
 # Stop Procrastinating and Start Studying Using Science
 
-stop-procrastinating-science-based
+## stop-procrastinating-science-based
 
 ‘I wish I could stop procrastinating.’ That’s a sentence that has probably been uttered at one point or another by every student since the dawn of time.
 
